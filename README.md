@@ -1,4 +1,4 @@
-<h1 align='center'>Hey! I am Pranav P K 👋</h1><hr>
+<h1 align='center'>Hey! I am Pranav P K 👋</h1>
 
 ## About Me 👨‍💻
   - `🎓 Student`
@@ -6,7 +6,7 @@
   - `👀 Looking for an intern`
   - `</> Currently doing projects`  
   - `⚡ Fun Fact: Can learn anything quickly`
-<hr>
+
 
 ## My Skills 💪
 
@@ -45,7 +45,7 @@
   ![Terminal](https://img.shields.io/badge/terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   <br>
-<hr>
+
 
 ## Let's Connect 🤝
 
