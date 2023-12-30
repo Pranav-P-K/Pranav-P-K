@@ -59,4 +59,5 @@
     
 ### Thanks for stopping by, 
 Please do visit my <a href="">Portfolio</a> before leaving 😁
-  
+
+![image title](https://rushter.com/counter.svg)
