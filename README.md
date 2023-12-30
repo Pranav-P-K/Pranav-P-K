@@ -2,7 +2,7 @@
 
 ## About Me 👨‍💻
   - `🎓 Student`
-  - `😎 Techie`
+  - `🛠️ Developer`
   - `👀 Looking for an intern`
   - `</> Currently doing projects`  
   - `⚡ Fun Fact: Can learn anything quickly`
