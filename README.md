@@ -66,4 +66,4 @@
   <a href="mailto:pranavpk1519@gmail.com" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" height=30px width=45px></img></a>
     
 ### Thanks for stopping by, 
-Please do visit my <a href="https://personal-portfolio-wheat-sigma.vercel.app/">Portfolio</a> before leaving 😁
+Please do visit my <a href="https://pranavpk.vercel.app/">Portfolio</a> before leaving 😁
